@@ -1,0 +1,4 @@
+protobuf
+base36
+websocket_client
+requests
