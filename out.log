@@ -1,0 +1,3 @@
+Opening channel
+Running command
+[{'channel': 2, 'state': 'Running'}, {'channel': 2, 'execInfo': {'command': ['python3', '-B', 'main.py'], 'reason': 'run'}}]
