@@ -3,7 +3,7 @@ import pyrepl
 user, repl = input('Input a user: '), input('Input one of their repls: ')
 
 id = pyrepl.get_json(user, repl)['id']
-key = os.getenv(key)
+key = os.getenv('REPLKEY')
 if not key:
     raise ValueError('This demo requires an API key! Fork it and insert your own here.')
 token = pyrepl.get_token(id, key)
