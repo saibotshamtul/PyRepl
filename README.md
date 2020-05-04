@@ -3,6 +3,9 @@ The repl.it API is very good, if you know JS. If you don't want to use JS, you'r
 of luck. But now you can use Python too! PyRepl is a library for interacting with the
 repl.it API through Python. It is similar to Crosis, the JS version. Sound interesting?
 Read on for a basic tutorial.
+# Installation
+First you have to install the library. Simply clone this repo and run `pip3 install -r requirements.txt`,
+and you'll be good to go.
 # The Basics
 To use this library, you first need a repl.it API key. You can get one [here](http://devs.turbio.repl.co).
 Once you have that, you need a repl. Go ahead and create one. Then create file. In that file, write:

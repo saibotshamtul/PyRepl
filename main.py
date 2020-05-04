@@ -1,4 +1,5 @@
 import pyrepl
+import os
 
 user, repl = input('Input a user: '), input('Input one of their repls: ')
 
