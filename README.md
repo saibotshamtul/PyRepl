@@ -1,4 +1,5 @@
 # PyRepl
+[![Run on Repl.it](https://repl.it/badge/github/sugarfi/PyRepl)](https://repl.it/github/sugarfi/PyRepl)
 The repl.it API is very good, if you know JS. If you don't want to use JS, you're out
 of luck. But now you can use Python too! PyRepl is a library for interacting with the
 repl.it API through Python. It is similar to Crosis, the JS version. Sound interesting?
