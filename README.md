@@ -61,7 +61,7 @@ them, see [here](http://protodoc.turbio.repl.co/services).
 # Closing Notes
 Some final notes:
 
-- This code is licensed under GNU GPL v 3.0. Feel free to do with it what you please, but credit would be nice!
+- This code is licensed under the MIT license. Feel free to do with it what you please, but credit would be nice!
 - This library is still in beta. I plan to improve the docs and code in the future.
 - Have any questions or comments? Feel free to comment on repl.it, open an issue on Github, or contact me on Discord.
 
